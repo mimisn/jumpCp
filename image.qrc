@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo_text.png</file>
+        <file>minimize.png</file>
+        <file>cancel_close.png</file>
+        <file>MyTitle.css</file>
+        <file>pbg.gif</file>
+        <file>minimize_32px.png</file>
+        <file>CLOSE_32px.png</file>
+        <file>ContentWindown.css</file>
+        <file>bitbug_favicon.ico</file>
+        <file>bitbug_favicon32.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+QPushButton#ButtonMin
+{ /*鼠标悬停在按钮上时*/
+    border-image:url(:/minimize_32px.png);
+}
+
+QPushButton#ButtonClose
+{ /*鼠标悬停在按钮上时*/
+    border-image:url(:/CLOSE_32px.png);
+}
+
+QPushButton:hover
+{ /*鼠标悬停在按钮上时*/
+    background-color:green;
+}
+
+QPushButton:pressed
+{ /*按钮被按下时*/
+     background-color:red;
+}
